@@ -4,6 +4,8 @@ Here are some ideas to get you started: -->
 
 # Pedro Sousa :man_technologist:
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sousapedro11)](https://github.com/sousapedro11)
+
 - 🔭 I’m Java and Python Developer
 - :heartpulse: In love with Flask
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
@@ -12,5 +14,5 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about them, open a issue
 - 📫 How to reach me:
   - [Telegram](https://t.me/sousapedro11)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ... -->
+- :heart_eyes: Passionate about learning and challenges involving programming
