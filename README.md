@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="20"> Welcome to my profile :octocat:
 
+- :books: I am an undergraduate student at the Federal University of Pará, in the Information Systems course
 - 🔭 I’m Java and Python Developer
 - :heartpulse: In love with Flask
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
