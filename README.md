@@ -8,6 +8,8 @@ Here are some ideas to get you started: -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)](https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppls2106@gmail.com)](mailto:ppls2106@gmail.com)
 
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30"> Welcome to my profile :octocat:
+
 - 🔭 I’m Java and Python Developer
 - :heartpulse: In love with Flask
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
