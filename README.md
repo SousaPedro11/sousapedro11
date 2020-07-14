@@ -14,6 +14,16 @@ Here are some ideas to get you started: -->
 - 🔭 I’m Java and Python Developer
 - :heartpulse: In love with Flask
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
+- I worked in Data Processing, WebScrapping, Reverse database engineering, code generation, Rest API, and Web applications (monolith) projects.
+- I have experience with the following technologies:
+  - Fortran, MATLAB. C, Pascal, Java, Python, .NET, Node.js, ReactJS, React Native
+  - Flask, Django, SqlAlchemy, Jinja2, Django Rest Framework, Flask-Restful, Maven, SpringBoot, JPA, Hibernate, JavaParser, SchemaCrawler, JSoup
+  - Chatbots
+  - Reflective and OO paradigm
+  - Docker
+  - Relational databases (PostgreSQL and MySQL)
+  - Linux and Shell Script
+  - HTML, CSS, Bootstrap and JavaScript
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about them, open a issue -->
