@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
   - Chatbots
   - Reflective and OO paradigm
   - Docker
-  - Relational databases (PostgreSQL and MySQL)
+  - Relational databases (PostgreSQL, MySQL, H2 Database and Sqlite)
   - Linux and Shell Script
   - HTML, CSS, Bootstrap and JavaScript
 <!-- - 👯 I’m looking to collaborate on ...
