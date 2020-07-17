@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 - :books: I am an undergraduate student at the Federal University of Pará, in the Information Systems course
 - 🔭 I’m Java and Python Developer
-- :heartpulse: In love with Flask
+- :heartpulse: In love with Flask and in an affair with Flutter
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
 - :man_technologist: I worked in Data Processing, WebScrapping, Reverse database engineering, code generation, Rest API, and Web applications (monolith) projects.
 - :older_man: I have experience with the following technologies:
