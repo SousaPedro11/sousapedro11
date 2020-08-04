@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)](https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppls2106@gmail.com)](mailto:ppls2106@gmail.com)
 
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="20"> Welcome to my profile :octocat:
+### Hello! <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/Hi.gif" height="20"> Welcome to my profile :octocat:
 
 - :books: I am an undergraduate student at the Federal University of Pará, in the Information Systems course
 - 🔭 I’m Java and Python Developer
@@ -24,12 +24,12 @@ Here are some ideas to get you started: -->
   - Relational databases (PostgreSQL, MySQL, H2 Database and Sqlite)
   - Linux and Shell Script
   - HTML, CSS, Bootstrap and JavaScript
-<!-- - 👯 I’m looking to collaborate on ...
+  <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about them, open a issue -->
 - 📫 How to reach me:
   - [Telegram](https://t.me/sousapedro11)
-<!-- - 😄 Pronouns: ... -->
+  <!-- - 😄 Pronouns: ... -->
 - :heart_eyes: Passionate about learning and challenges involving programming
 
 <img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
