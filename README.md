@@ -32,5 +32,7 @@ Here are some ideas to get you started: -->
   <!-- - 😄 Pronouns: ... -->
 - :heart_eyes: Passionate about learning and challenges involving programming
 
-<img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11">
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true" height=195px>
+</center>
