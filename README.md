@@ -5,7 +5,7 @@ Here are some ideas to get you started: -->
 # Pedro Sousa :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sousapedro11)](https://github.com/sousapedro11)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)](https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sousapedro11/)](https://www.linkedin.com/in/sousapedro11/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppls2106@gmail.com)](mailto:ppls2106@gmail.com)
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/Hi.gif" height="20"> Welcome to my profile :octocat:
