@@ -33,6 +33,6 @@ Here are some ideas to get you started: -->
 - :heart_eyes: Passionate about learning and challenges involving programming
 
 <center>
-<img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=blueberry">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=blueberry" height=195px>
+<img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 </center>
