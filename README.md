@@ -9,13 +9,14 @@ Here are some ideas to get you started: -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppls2106@gmail.com)](mailto:ppls2106@gmail.com)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sousapedro11&label=Profile%20views&color=0e75b6&style=flat" alt="sousapedro11" />
+  <img src="https://komarev.com/ghpvc/?username=sousapedro11&label=Profile%20Views&style=flat" alt="sousapedro11" />
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sousapedro11" alt="sousapedro11" />
-</a>
-</p>
+<!-- <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sousapedro11" alt="sousapedro11" />
+  </a>
+</p> -->
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/Hi.gif" height="20"> Welcome to my profile :octocat:
 
