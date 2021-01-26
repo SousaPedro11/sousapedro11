@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 <!-- **SousaPedro11/sousapedro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
@@ -46,18 +47,7 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sousapedro11&v=2&theme=tokyonight">
-<div
-      style="
-        max-width: max-content;
-        max-height: max-content;
-        width: auto;
-        height: auto;
-        border: 1px solid #fffefe;
-        background: #1a1b27;
-        padding: 20px;
-        border-radius: 5px;
-      "
-    >
+<div class='card-editors'>
       <p align='center' style="color: #70a5fd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         Editors over 7 Last Days
       </p>
