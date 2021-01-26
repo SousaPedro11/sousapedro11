@@ -46,5 +46,6 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sousapedro11&v=2&theme=tokyonight">
-<figure><embed src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg"></embed></figure>
+<img src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg" alt="editors" height="195">
+<!-- <figure><embed src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg"></embed></figure> -->
 </center>
