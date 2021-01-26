@@ -67,5 +67,4 @@ Here are some ideas to get you started: -->
         height="195"
       />
     </div>
-<!-- <figure><embed src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg"></embed></figure> -->
 </center>
