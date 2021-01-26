@@ -46,6 +46,26 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sousapedro11&v=2&theme=tokyonight">
-<img src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg" alt="editors" height="195">
+<div
+      style="
+        max-width: max-content;
+        max-height: max-content;
+        width: auto;
+        height: auto;
+        border: 1px solid #fffefe;
+        background: #1a1b27;
+        padding: 20px;
+        border-radius: 5px;
+      "
+    >
+      <p style="color: #70a5fd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        Editors over 7 Last Days
+      </p>
+      <img
+        src="https://wakatime.com/share/@sousapedro11/4bf06719-334e-49d5-9399-ff79b27ef3ad.svg"
+        alt="editors"
+        height="195"
+      />
+    </div>
 <!-- <figure><embed src="https://wakatime.com/share/@sousapedro11/995be911-0119-403b-88ac-a344ef04ca86.svg"></embed></figure> -->
 </center>
