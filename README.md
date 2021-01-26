@@ -62,9 +62,10 @@ Here are some ideas to get you started: -->
         Editors over 7 Last Days
       </p>
       <img
-        src="./images/teste.svg"
+        src="https://wakatime.com/share/@sousapedro11/4bf06719-334e-49d5-9399-ff79b27ef3ad.svg"
         alt="editors"
         height="195"
       />
     </div>
+
 </center>
