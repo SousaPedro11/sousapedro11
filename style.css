@@ -1,0 +1,15 @@
+.card-editors {
+  max-width: max-content;
+  max-height: max-content;
+  width: auto;
+  height: auto;
+  border: 1px solid #fffefe;
+  background: #1a1b27;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.card-editors p {
+  color: #70a5fd;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
