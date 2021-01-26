@@ -9,7 +9,7 @@
   border-radius: 5px;
 }
 
-.card-editors p {
+.card-editors .title-editors {
   color: #70a5fd;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
