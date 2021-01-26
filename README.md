@@ -58,11 +58,11 @@ Here are some ideas to get you started: -->
         border-radius: 5px;
       "
     >
-      <p style="color: #70a5fd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <p align='center' style="color: #70a5fd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         Editors over 7 Last Days
       </p>
       <img
-        src="https://wakatime.com/share/@sousapedro11/4bf06719-334e-49d5-9399-ff79b27ef3ad.svg"
+        src="./images/teste.svg"
         alt="editors"
         height="195"
       />

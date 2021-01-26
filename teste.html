@@ -4,8 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
   </head>
   <body>
+    <p id="pycharm"></p>
+    <p id="code"></p>
     <div
       style="
         max-width: max-content;
@@ -18,16 +21,43 @@
         border-radius: 5px;
       "
     >
-      <p style="color: #70a5fd; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Editors over 7 Last Days</p>
+      <p
+        style="
+          color: #70a5fd;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        "
+      >
+        Editors over 7 Last Days
+      </p>
       <img
         src="https://wakatime.com/share/@sousapedro11/4bf06719-334e-49d5-9399-ff79b27ef3ad.svg"
         alt="editors"
         height="195"
       />
     </div>
+    <div id="editores"></div>
   </body>
   <script>
-    imagem = document.getElementsByClassName('logo-img');
-    console.log(imagem);
+    function callback(response) {
+      jsonpm = response.data;
+      let ed = document.querySelector('#editores');
+      for (e of jsonpm) {
+        editor = document.createElement('p');
+        editor.setAttribute('id', e['name'].toLowerCase());
+        editor.textContent = e['name'].concat('\t').concat(e['percent']);
+        ed.appendChild(editor);
+      }
+    }
+    $.ajax({
+      type: 'GET',
+      url:
+        'https://wakatime.com/share/@sousapedro11/855c91b9-a2a6-4399-b65a-dc5b3865519b.json',
+      dataType: 'jsonp',
+      async: false,
+      global: false,
+      success: function (data) {
+        callback(data);
+      },
+    });
   </script>
 </html>
