@@ -44,6 +44,8 @@ Here are some ideas to get you started: -->
   <!-- - 😄 Pronouns: ... -->
 - :heart_eyes: Passionate about learning and challenges involving programming
 <br>
+<a href="https://pt.stackoverflow.com/users/237906/sousapedro11"><img src="https://pt.stackoverflow.com/users/flair/237906.png?theme=dark" width="208" height="58" alt="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+<br>
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
