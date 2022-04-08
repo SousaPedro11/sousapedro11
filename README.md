@@ -36,9 +36,10 @@ Here are some ideas to get you started: -->
   - Relational databases (PostgreSQL, MySQL, H2 Database and Sqlite)
   - Linux and Shell Script
   - HTML, CSS, Bootstrap and JavaScript
-  <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+  <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about them, open a issue -->
+
 - 📫 How to reach me:
   - [Telegram](https://t.me/sousapedro11)
   <!-- - 😄 Pronouns: ... -->
