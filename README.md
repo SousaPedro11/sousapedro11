@@ -28,6 +28,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
 - :man_technologist: I worked in Data Processing, WebScrapping, Reverse database engineering, code generation, Rest API, and Web applications (monolith) projects.
 - :older_man: I have experience with the following technologies:
+
   - Fortran, MATLAB. C, Pascal, Java, Python, .NET, Node.js, ReactJS, React Native
   - Flask, Django, SqlAlchemy, Jinja2, Django Rest Framework, Flask-Restful, Maven, SpringBoot, JPA, Hibernate, JavaParser, SchemaCrawler, JSoup
   - Chatbots
@@ -36,9 +37,9 @@ Here are some ideas to get you started: -->
   - Relational databases (PostgreSQL, MySQL, H2 Database and Sqlite)
   - Linux and Shell Script
   - HTML, CSS, Bootstrap and JavaScript
-  <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about them, open a issue -->
+      <!-- - 👯 I’m looking to collaborate on ... -->
+    <!-- - 🤔 I’m looking for help with ... -->
+    <!-- - 💬 Ask me about them, open a issue -->
 
 - 📫 How to reach me:
   - [Telegram](https://t.me/sousapedro11)
@@ -49,7 +50,7 @@ Here are some ideas to get you started: -->
 <br>
 <center>
 <img src="https://github-readme-stats-umber-seven.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
+<img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats-umber-seven.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight">
 <!-- <div class='card-editors'>
       <p class='title-editors' style="color: #70a5fd;
