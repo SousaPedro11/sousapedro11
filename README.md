@@ -51,7 +51,7 @@ Here are some ideas to get you started: -->
 <center>
 <img src="https://github-readme-stats-umber-seven.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
-<img src="https://github-readme-stats-umber-seven.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight">
+<img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs?username=sousapedro11&theme=tokyonight">
 <!-- <div class='card-editors'>
       <p class='title-editors' style="color: #70a5fd;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
