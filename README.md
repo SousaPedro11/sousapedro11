@@ -49,9 +49,9 @@ Here are some ideas to get you started: -->
 <a href="https://pt.stackoverflow.com/users/237906/sousapedro11"><img src="https://pt.stackoverflow.com/users/flair/237906.png?theme=dark" width="208" height="58" alt="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 <br>
 <center>
+<img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats-umber-seven.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sousapedro11&theme=tokyonight">
-<img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight">
 <!-- <div class='card-editors'>
       <p class='title-editors' style="color: #70a5fd;
