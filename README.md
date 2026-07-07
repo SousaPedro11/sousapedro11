@@ -76,12 +76,12 @@ Founder & Software Consultant at **Sousa & Sousa Software Development**, helping
 </p>
 <!-- Colocar para ler o privado depois -->
 <p align="center">
-  <img src="./profile/stats.svg" height="195px" />
-  <img src="./profile/top-langs.svg" height="195px" />
+  <img src="https://github-stats-extended-frontend-nu.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight" height="195px" />
+  <img src="https://github-stats-extended-frontend-nu.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&langs_count=8&count_private=true&theme=tokyonight" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight" height="195px" />
+  <img src="https://github-stats-extended-frontend-nu.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight" height="195px" />
   <img src="https://streak-stats.demolab.com/?user=sousapedro11&theme=tokyonight" height="195px" />
 </p>
 
