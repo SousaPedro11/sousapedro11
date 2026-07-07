@@ -1,68 +1,94 @@
-<link href="style.css" rel="stylesheet"></link>
-
-<!-- **SousaPedro11/sousapedro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-# Pedro Sousa :man_technologist:
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sousapedro11)](https://github.com/sousapedro11)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sousapedro11/)](https://www.linkedin.com/in/sousapedro11/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppls2106@gmail.com)](mailto:ppls2106@gmail.com)
+# Pedro Sousa (Lisboa) 🚀
+### Tech Lead | Solutions Architect | Software Engineer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sousapedro11&label=Profile%20Views&style=flat" alt="sousapedro11" />
+  <a href="https://linkedin.com/in/sousapedro11"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ppls2106@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://t.me/sousapedro11"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/SousaPedro11"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" /></a>
 </p>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sousapedro11&label=Profile%20Views&style=flat" alt="sousapedro11 views" />
+</p>
+
+---
+
+### 👤 About Me
+
+Technology leader and software architect with extensive experience in **Technical Leadership, Software Architecture, IT Management, and Software Engineering**. Focused on delivering product impact, continuous value, team mentorship, and bridging the gap between business goals and engineering.
+
+Founder & Software Consultant at **Sousa & Sousa Software Development**, helping businesses build scalable, cost-effective, and custom software systems.
+
+> [!NOTE]
+> **Current Focus:** Leading squads at Salú to revolutionize corporate health management, designing scalable Go/Python backend architectures, and driving cloud cost optimization.
+
+- ⚙️ Specialist in designing scalable, resilient, and optimized architectures using modern **System Design** practices.
+- 💡 Advocate for team autonomy, sense of ownership, and data-driven decision-making.
+
+---
+
+### 🏆 Key Highlights & Impact
+
+- 📉 **Infrastructure Cost Reduction:** Saved over **$3,000/month** on AWS through architecture optimization and Infrastructure as Code (IaC).
+- ⚡ **High-Performance Optimization:** Reduced response times of critical backend microservices to **2 milliseconds**.
+- 🐛 **Stability & Reliability:** Decreased legacy system defects from **486 to 21** via refactoring, automated testing, and CI/CD/QA improvements.
+- 🚀 **Delivery Efficiency:** Boosted **project delivery rate by 75%** and reduced client wait times by 20% by leading five multi-functional engineering teams.
+
+---
+
+### 🛠️ Competencies & Tech Stack
+
+| Category | Technologies / Practices |
+| :--- | :--- |
+| **Leadership & Management** | Technical Leadership, IT Management, System Design, Stakeholder Management, Team Mentorship, Incident Management, SLAs |
+| **Languages & Syntax** | Python, Go, C# (.NET), JavaScript, TypeScript, Java, Dart, SQL, GraphQL, Lua, Shell Script |
+| **Frameworks & Web** | FastAPI, Django, Django REST Framework, Tornado, React, Next.js, Angular, Tailwind CSS, Flutter, React Native, Spring Boot |
+| **Infra & DevOps** | AWS, Azure, Docker, Kubernetes, CI/CD pipelines, Terraform (IaC), Ansible, Observability, Celery, REST / SOAP APIs |
+
+---
+
+### 🎓 Featured Courses & Bootcamps
+
+- **Software Architect Bootcamp** (Bootcamp Arquiteto de Software)
+- **Leadership Development Program** (Formação em Liderança)
+- **Fullstack Python Developer** (Desenvolvedor Fullstack Python)
+- **Multi-stack Specialist** (TreinaWeb Multi-stack)
+- **Java Fundamentals** (Fundamentos de Java)
+
+---
+
+### 🗣️ Languages
+
+- **Portuguese:** Native
+- **English:** Professional Working
+- **Spanish:** Limited Working
+- **German:** Elementary
+
+---
+
+### 📊 Stats and Activities
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sousapedro11&theme=dracula" alt="sousapedro11" />
+    <img src="https://trophy.benkou.dev/?username=sousapedro11&theme=tokyonight" alt="sousapedro11 trophies" />
   </a>
 </p>
+<!-- Colocar para ler o privado depois -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&langs_count=8&count_private=true&theme=tokyonight" height="195px" />
+</p>
 
-### Hello! <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/Hi.gif" height="20"> Welcome to my profile :octocat:
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight" height="195px" />
+  <img src="https://streak-stats.demolab.com?user=sousapedro11&theme=tokyonight" height="195px" />
+</p>
 
-- :books: I am an undergraduate student at the Federal University of Pará, in the Information Systems course
-- 🔭 I’m Java and Python Developer
-- :heartpulse: In love with Flask and in an affair with Flutter
-- 🌱 I’m currently learning JavaScript, Node.js, ReactJS, Dart and Flutter
-- :man_technologist: I worked in Data Processing, WebScrapping, Reverse database engineering, code generation, Rest API, and Web applications (monolith) projects.
-- :older_man: I have experience with the following technologies:
-
-  - Fortran, MATLAB. C, Pascal, Java, Python, .NET, Node.js, ReactJS, React Native
-  - Flask, Django, SqlAlchemy, Jinja2, Django Rest Framework, Flask-Restful, Maven, SpringBoot, JPA, Hibernate, JavaParser, SchemaCrawler, JSoup
-  - Chatbots
-  - Reflective and OO paradigm
-  - Docker
-  - Relational databases (PostgreSQL, MySQL, H2 Database and Sqlite)
-  - Linux and Shell Script
-  - HTML, CSS, Bootstrap and JavaScript
-      <!-- - 👯 I’m looking to collaborate on ... -->
-    <!-- - 🤔 I’m looking for help with ... -->
-    <!-- - 💬 Ask me about them, open a issue -->
-
-- 📫 How to reach me:
-  - [Telegram](https://t.me/sousapedro11)
-  <!-- - 😄 Pronouns: ... -->
-- :heart_eyes: Passionate about learning and challenges involving programming
 <br>
-<a href="https://pt.stackoverflow.com/users/237906/sousapedro11"><img src="https://pt.stackoverflow.com/users/flair/237906.png?theme=dark" width="208" height="58" alt="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Sousapedro11 em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
-<br>
-<center>
-<img src="https://github-readme-stats-umber-seven.vercel.app/api/top-langs/?username=sousapedro11&layout=compact&&langs_count=108&count_private=true&theme=tokyonight" height=195px>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sousapedro11&theme=tokyonight">
-<img src="https://github-readme-stats-umber-seven.vercel.app/api?username=sousapedro11&count_private=true&include_all_commits=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sousapedro11&theme=tokyonight">
-<!-- <div class='card-editors'>
-      <p class='title-editors' style="color: #70a5fd;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        Editors over 7 Last Days
-      </p>
-      <img
-        src="https://wakatime.com/share/@sousapedro11/4bf06719-334e-49d5-9399-ff79b27ef3ad.svg"
-        alt="editors"
-        height="195"
-      />
-    </div> -->
 
-</center>
+<p align="center">
+  <a href="https://pt.stackoverflow.com/users/237906/sousapedro11">
+    <img src="https://pt.stackoverflow.com/users/flair/237906.png?theme=dark" width="208" height="58" alt="StackOverflow Profile" />
+  </a>
+</p>
